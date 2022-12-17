@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/b9V65fCAMT9ChIISmE" width="480" height="102" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/b9V65fCAMT9ChIISmE">via GIPHY</a></p>
+<img src="https://github.com/k-celal/k-celal/blob/main/logo/celal.gif">
 
 - 👋 Hi, I’m Celal Karahan
 - 👀 I’m interested in Artifical Intelligence and Deep Learning...
