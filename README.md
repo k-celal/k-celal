@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Celal Karahan
 - 👀 I’m interested in Artifical Intelligence and Deep Learning...
 - 🌱 I’m currently learning Data Science, SQL, C++
-- 📫 How to reach me ---> celal51kara@gmail.com and https://www.linkedin.com/in/celal-karahan51/ 
+- 📫 How to reach me ---> celal51kara@gmail.com
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
