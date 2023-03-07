@@ -24,10 +24,10 @@
    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/> </a>
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
  </p>
- ⚡&nbsp;<b>GitHub Stats:</b>
+ ⚡&nbsp;<b style="text-align:center">GitHub Stats:</b>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-celal&show_icons=true&locale=en&layout=compact" alt="k-celal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-celal&show_icons=true&locale=en&layout=compact" alt="k-celal" height="195"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-celal&show_icons=true&locale=en" alt="k-celal" /></p>
 
