@@ -27,7 +27,7 @@
  ⚡&nbsp;<b style="text-align:center">GitHub Stats:</b>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-celal&show_icons=true&locale=en&layout=compact" alt="k-celal" height="195"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-celal&show_icons=true&locale=en&layout=compact" alt="k-celal" height="195"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-celal&show_icons=true&locale=en" alt="k-celal" /></p>
 
