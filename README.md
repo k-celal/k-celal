@@ -27,11 +27,11 @@
  ⚡&nbsp;<b style="text-align:center">GitHub Stats:</b>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-celal&show_icons=true&locale=en&layout=compact" alt="k-celal" height="195"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-celal&show_icons=true&locale=en&layout=compact&theme=dracula" alt="k-celal" height="195"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-celal&show_icons=true&locale=en" alt="k-celal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-celal&show_icons=true&locale=en&theme=dracula" alt="k-celal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-celal&" alt="k-celal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-celal&&theme=dracula" alt="k-celal" /></p>
 <!---
 k-celal/k-celal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
