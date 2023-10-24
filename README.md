@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Celal Karahan
 - 👀 I’m interested in Artifical Intelligence and Deep Learning...
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 🌱 I’m currently learning .NET for Backend Dev.
 - 📫 How to reach me ---> celal51kara@gmail.com
 
 💻&nbsp;<b>Connect with me:</b>
