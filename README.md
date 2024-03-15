@@ -25,7 +25,7 @@
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
  </p>
  ⚡&nbsp;<b style="text-align:center">GitHub Stats:</b>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=k-celal&label=Profile%20views&color=553a99&style=flat" alt="celalkarahan" /> </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-celal&show_icons=true&locale=en&layout=compact&theme=dracula" alt="k-celal" height="195"/></p>
 
