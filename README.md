@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Celal</h1>
+<p align="center">
+  <img alt="k_celalgif" src="https://github.com/k-celal/k-celal/blob/main/logo/celal.gif">
+</p>
 <h3 align="center">Navigating the Frontiers of AI, Machine Learning, and Data Science</h3>
-<img align="center" alt="k_celalgif" src="https://github.com/k-celal/k-celal/blob/main/logo/celal.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-celal&label=Profile%20views&color=0e75b6&style=flat" alt="k-celal" /> </p>
 
