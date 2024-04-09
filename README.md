@@ -4,7 +4,7 @@
 <h3 align="center">Navigating the Frontiers of AI, Machine Learning, and Data Science</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-celal&label=Profile%20views&color=0e75b6&style=flat" alt="k-celal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=k-celal&label=Profile%20views&color=0e75b6&style=flat" alt="k-celal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-celal" alt="k-celal" /></a> </p>
 
@@ -25,7 +25,6 @@
 <a href="https://kaggle.com/celalkrhnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="celalkrhnn" height="30" width="40" /></a>
 <a href="https://instagram.com/celalkrhnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="celalkrhnn" height="30" width="40" /></a>
 <a href="https://medium.com/@celalkrhnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@celalkrhnn" height="30" width="40" /></a>
-<a href="https://discord.gg/muyu_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="muyu_x" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
