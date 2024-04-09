@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-celal&show_icons=true&locale=en&layout=compact" alt="k-celal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-celal&show_icons=true&locale=en" alt="k-celal" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-celal&show_icons=true&locale=en" alt="k-celal" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-celal&" alt="k-celal" /></p>
