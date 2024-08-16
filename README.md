@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="k_celalgif" src="https://github.com/k-celal/k-celal/blob/main/logo/celal.gif">
 </p>
-<h3 align="center">Navigating the Frontiers of AI, Machine Learning, and Data Science</h3>
+<h3 align="center">Navigating the Frontiers of AI, Machine Learning, Data Science and Backend Developer</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=k-celal&label=Profile%20views&color=0e75b6&style=flat" alt="k-celal" /> </p>
