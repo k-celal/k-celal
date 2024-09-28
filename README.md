@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-celal" alt="k-celal" /></a> </p>
 
-- 🔭 I’m currently working on [onlineBankingApp](https://github.com/k-celal/onlineBankingApp-swift)
+- 🔭 I’m currently working on LLM
 
-- 🌱 I’m currently learning **Image Processing, Swift**
+- 🌱 I’m currently learning **LangChain, RAG**
 
 - 📝 I regularly write articles on [https://medium.com/@celalkrhnn](https://medium.com/@celalkrhnn)
 
